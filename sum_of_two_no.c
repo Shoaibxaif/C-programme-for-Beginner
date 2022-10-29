@@ -10,7 +10,7 @@ int main()
     scanf("%d",&n2);
 
     sum = n1+n2;
-    printf("addition of Two numbers:%d",sum);
+    printf("Addition of Two Numbers:%d",sum);
 
     return 0;
 }
