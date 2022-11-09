@@ -1,5 +1,4 @@
 // find the greater no. between two no.
-
 #include<stdio.h>
 int main()
 {
