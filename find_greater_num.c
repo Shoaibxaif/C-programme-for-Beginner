@@ -27,6 +27,5 @@ int main()
         printf("n3 is greater");
     }
     
-    
     return 0;
 }
